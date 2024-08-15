@@ -1,0 +1,623 @@
+Karmine Corp
+Histoire
+Fondation	30 mars 2020 (Kameto Corp)  16 novembre 2020 (Karmine Corp)
+Cadre
+Sigles	KCorp, KC
+Surnoms	(en) Blue Wall, "La Prestigieuse"
+Type	Club esportif
+Forme juridique	Association de fait (30 mars 2020 - 14 janvier 2021)  Société par actions simplifiée
+Domaines d'activité	League of Legends, Teamfight Tactics, Rocket League, Valorant, Fortnite, Tekken 8, Street Fighter 6, autres activités récréatives et de loisirs
+Siège	Tours (de jure)  Paris (de facto)
+Pays	France
+Organisation
+Fondateurs	Kameto, Kotei (d), Prime
+Président	Kameto (depuis 2021)
+Directeurs	Prime (depuis 2021), Arthur Perticoz (d) (depuis 2023)
+Personnes clés	Kotei (d) (directeur général délégué)
+Propriétaire	Kameto (50,84 %)
+Sponsors	Fitness Park, Logitech, Michelin, Orange, Samsung Electronics, NZXT (en), Red Bull, Ekwateur, Crédit industriel et commercial, Celio
+Site web	
+www.karminecorp.fr
+Identifiants
+SIREN	8905751
+TVA européenne	FR488905751
+OpenCorporates	fr/8905751
+
+Karmine Corp, couramment appelée KCorp ou KC, est une structure française d'esport présente sur les jeux League of Legends, Rocket League, Valorant, Teamfight Tactics, Fortnite, Street Fighter 6 et Tekken 8.
+
+Formée sous le nom de Kameto Corp par le duo de streamers francophones Kamel « Kameto » Kebir et Zouhair « Kotei » Darji le 30 mars 2020, une société par actions simplifiée est créée quelques mois plus tard, présidée par Kameto et rejoint le 16 novembre 2020 par l'entrepreneur et rappeur français Amine « Prime » Mekri dans la direction. Elle prend en même temps sa dénomination actuelle. L'entreprise basée principalement à Paris dispose depuis 2023 de locaux à Berlin et devient club résident aux Arènes de l'Agora à Evry-Courcouronnes en 2024.
+
+Son immersion dans le monde de l'esport débute notablement par la création d'une section League of Legends qui réussit à se qualifier au segment printanier 2021 en première division de la Ligue française de League of Legends (LFL). Après avoir sécurisé sa place dans la deuxième division européenne, les EMEA Masters, la structure devient championne des segments de printemps et d'été 2021. Par la suite, elle devient la première équipe à remporter ce titre à trois reprises et à réaliser un triplé.
+
+L'ambition de la structure dépasse les frontières de la compétition et vise à démocratiser l'esport en France par le biais d'initiatives diverses. Parmi celles-ci figurent l'organisation d'événements annuels — comme le Karmine Corp Experience (KCX) — rassemblant plusieurs dizaines de milliers de spectateurs.
+
+Mobilisés au sein de l'association Le Blue Wall, les ultras de la Karmine Corp obtiennent une renommée en France puis à l'international grâce à leur ferveur digne des supporters de football.
+
+Histoire
+    Kamel « Kameto » Kebir annonce le 30 mars 2020 la création de sa structure d'e-sport nommée Kameto Corp avec Zouhair « Kotei » Darji. La structure se fait rapidement connaître en remportant les mondiaux de Teamfight Tactics (TFT) avec Emre « Double61 » Demirtas, puis un titre de champions du monde sur TrackMania avec les joueurs Brendan « Bren » Seve et Youen « Otaaaq » Egler.
+
+    En novembre 2020, le duo est rejoint par Amine « Prime » Mekri comme cofondateur. La structure, renommée Karmine Corp, annonce alors rejoindre la Ligue française de League of Legends (LFL) pour la saison suivante. Après une arrivée en deuxième division, elle rejoint rapidement la première division pour la saison 2021 et remporte le segment de printemps de la LFL, puis la deuxième division européenne EMEA Masters, compétition rassemblant les meilleures équipes des différentes ligues nationales d'Europe. De nouveau victorieuse du championnat européen au segment d'été, elle devient alors la première équipe à remporter deux fois cette compétition. Elle bat son propre record au segment de printemps 2022 en remportant le titre pour la troisième fois en triplé.
+
+    Après un segment de printemps compliqué à la saison 2023 sur League of Legends, l'équipe rebondit en remportant une deuxième fois la ligue française et les EMEA Masters pour la quatrième fois lors du segment d'été, battant son propre record. Cette même année, la section League of Legends rejoint la première division européenne, les League of Legends EMEA Championship (LEC) une ligue fermée permettant l'accès aux compétitions mondiales telles que le championnat du monde, en signant un accord afin d'acquérir la place de l'équipe danoise Astralis. En fin d'année, la structure met un pied dans des locaux à Berlin pour assurer le développement de la section Valorant pour les Valorant Champions Tour (en) (VCT) 2024.
+
+    Au rythme des saisons et consciente de l'intérêt d'entretenir une certaine proximité, la structure entretient ses supporters par l'organisation d'événements. En 2021, le premier Karmine Corp Experience (KCX) est organisé et rassemble 3 500 personnes au Palais des congrès de Paris. La deuxième édition en 2022 rassemble 12 000 spectateurs au Palais omnisports de Paris-Bercy. Le KCX3 en 2023 se démarque avec une série de matchs d'exhibitions à la Paris La Défense Arena devant plus de 28 000 spectateurs.
+
+    Le club devient résident des Arènes de l'Agora en 2024, une première pour l'esport occidental. Une nouvelle équipe du club, Karmine Corp Blue, prend alors la place laissée vacante en LFL pour permettre la formation de jeunes talents.
+
+League of Legends
+    2020 : Kameto Corp et la Division 2
+    Le 30 mars 2020, Kameto annonce la création de sa structure d'e-sport, nommée Kameto Corp. Ce dernier a racheté la place de la structure suisse d'Unfazed e-sport en pleine saison de Division 2 Française, ainsi que les joueurs de la structure pour continuer la saison. Adam « Adam » Maanane, Philippe « Akabane » Le, Ilias « Nuclearint » Bizriken, Julien « jujutw0 » Izzo et Jérémy « Helaz » François sont les cinq premiers joueurs de la structure.
+
+    2021 : Débuts en LFL et doublé européen historique
+    Le 17 novembre 2020, lors d'un live sur la chaine Twitch de Kameto, les dirigeants Kamel et Prime annoncent l'arrivée de leur structure e-sport en LFL (la première division française). C'est à la suite de ce live que la Kameto Corp est renommée Karmine Corp et change légèrement son logo. La Karmine annonce aussi sa première recrue pour le segment de printemps de LFL 2021 : le toplaner Adam « Adam » Maanane, qui sera le seul élément conservé du parcours de Division 2.
+
+    Le 23 décembre 2020, la Karmine annonce le reste de leur équipe avec l'arrivée du polonais Jakub « Cinkrof » Rokicki évoluant au poste de jungler, l'ancien joueur de la Team Vitality Lucas « Saken » Fayard évoluant au poste de mid laner, l'anglais Matthew « xMatty » Coombs en AD Carry et le belge Raphaël «Targamas » Crabbé, déjà champion de France l'année dernière avec les Misfits Premier, comme support. Déjà présent dans le staff l'année dernière, c'est Yanis « Striker » Kella qui sera le coach de l'équipe.
+
+    La Karmine Corp n'était pas donnée favorite pour remporter le championnat avant le début de la saison et leurs deux premières semaines allaient dans ce sens, avec trois victoires pour deux défaites. La Karmine s'adjugea cependant le derby contre Solary avec des audiences records pour un match de championnat régional. À partir de février, l'équipe monta en puissance et ne perdra que 3 rencontres (dont le match retour face à Solary), finissant en tête du classement de la saison régulière à égalité avec Misfits Premier, l'équipe académique des Misfits Gaming. Le tie-break pour la première place entre les deux équipes fut adjugé par la Karmine Corp qui se qualifia ainsi directement pour la finale du championNationalité Une finale qu'elle remportera facilement 3-0 toujours contre les lapins, avec notamment une prestation de haute volée de son toplaner Adam.
+
+    Cette victoire leur permettra de se qualifier pour les European Masters, la seconde plus grande compétition européenne et le trophée le plus prestigieux que la Karmine Corp puisse remporter. Directement engagée en phase de groupes, la Karmine survole son sujet en battant aisément tous ses adversaires, notamment son ancien joueur Nuclearint, parti chez l'équipe réserve de Schalke 04. Dans l'arbre final et dans un format en deux manches gagnantes qu'ils n'apprécient pas, la Karmine a été bousculée face à l'équipe serbe des ŠAIM SE SuppUp en quarts (la Karmine concédant la première manche avant de battre les Serbes dans les deux matchs suivants) et face à l'UCAM Esports Club en demi-finale (victoire 2-1 de la Karmine Corp dans une rencontre très serrée, débloquée en toute fin de partie par leur midlaner Saken.) En finale, la Karmine Corp retrouve l'un de ses adversaires de la phase de groupe, les Anglais de BT Excel, équipe réserve d'Excel Esports. Dans une rencontre plus accrochée qu'en groupe, la Karmine Corp triomphe 3-1 des Anglais et remporte le trophée, devenant la première équipe française à remporter la ligue régionale et les European Masters pendant le même segment. Cette victoire vaudra notamment les félicitations du président de la République Emmanuel Macron par message privé sur Twitter.
+
+    La Karmine Corp annonce le départ de son jeune toplaner Adam le 12 mai 2021. Il rejoint quelques jours plus tard l'équipe de Fnatic, qui joue en LEC, la plus haute division européenne. Le 29 mai 2021, Kamel et Amine annoncent que Lucas « Cabochard » Simon-Meslet remplacera Adam pour la seconde partie de saison. Cabochard est un vétéran de la scène League of Legends et est l'ancien toplaner de la Team Vitality, avec qui il a disputé les championnats du monde en 2018.
+
+    Après une première moitié de segment impériale (9 victoires en 9 matchs), la Karmine éprouve davantage de difficultés par la suite mais parvient à finir de nouveau premiers de la saison régulière, leur permettant d'accéder directement à la finale du segment ainsi qu'à la phase de groupe des European Masters dont ils sont tenants du titre. Ils retrouvent en finale les Misfits Premier dans un remake de la finale du printemps. Cependant, c'est les lapins qui prennent leur revanche en battant la Karmine Corp 3-1. Cette défaite est la première pour la Karmine Corp dans une rencontre en plus d'un match gagnant, ainsi que le premier titre qui échappe à la Karmine en 2021.
+
+    Juste avant le début des European Masters, la Karmine Corp renverse Vitality.Bee 3-2 dans le cadre de la Coupe de France. Rapidement menée 2-0, la Karmine remporte les trois manches suivantes pour se qualifier in extremis pour la finale à Monaco et prendre leur revanche sur Misfits Premier. Ils se rassurent également juste avant le début de la compétition européenne.
+
+    Les European Masters confirment la forme retrouvée de la Karmine Corp, qui domine facilement sa poule puis le UCAM Esports Club en quarts-de-finale, que la Karmine bat 3-0. Ils affrontent alors Berlin International Gaming qui a recruté l'ancien jungler de la Kameto Corp en Division 2, Akabane. Dans une rencontre serrée qui va jusqu'à la cinquième manche, l'équipe française finit par dominer les Allemands pour se qualifier. Alors que les observateurs attendaient une nouvelle revanche entre la Karmine Corp et Misfits Premier en finale, l'équipe académique de Fnatic, les Fnatic Rising, joue les trouble-fêtes en éliminant les lapins en demi-finale. Dans une nouvelle finale franco-anglaise, la Karmine Corp prend rapidement le large 2-0 avant de se faire remonter à 2-2. Comme contre BIG, la Karmine Corp balaye son adversaire dans la cinquième manche et remporte ainsi ses seconds European Masters. Jamais une équipe n'avait réussi à conserver son titre dans cette compétition.
+
+    Pour son dernier match de l'année, en finale de la Coupe de France, la Karmine Corp joue la belle contre son rival Misfits Premier. Dans une rencontre accrochée, la KCorp finissent par renverser la Karmine Corp, qui termine sa saison sur une défaite 3-2, et laissent les lapins repartir avec le titre de meilleure équipe de France en 2021.
+
+
+    Liste détaillée des matchs de la Karmine Corp lors de la saison 2021
+    
+    2022 : Deuxième saison LFL
+    Le 15 novembre 2021, à l'occasion d'une conférence de presse diffusée sur Twitch, Kameto et Prime annoncent le départ de Cinkrof, Targamas et xMatty de l'équipe, ainsi que la prolongation du staff technique composé de Striker et Reha jusqu'en 2023. Quelques heures plus tard, à l'ouverture du mercato, la Karmine Corp annonce sur Twitter l'arrivée du AD Carry suédois Martin « Rekkles » Larsson, en provenance de chez G2 Esports. Il était sur la liste des transferts après la non-qualification aux Worlds 2021 de G2, malgré une équipe taillée pour le titre suprême. Pour s'offrir un joueur de ce calibre, le transfert aurait coûté près d'un million d'euros à la Karmine. Le roster est ensuite complété par la prolongation d'un an de Cabochard, le maintien de Saken à son poste, ainsi que par les arrivées libres de Jules « Hantera » Bourgeois, du jeune Doğukan « 113 » Balcı (aussi surnommé Bumm) et de Wao « Wao » Dai comme joueur remplaçant.
+
+    La Karmine Corp dispute son premier match de la saison à l'occasion de la présentation de la nouvelle équipe e-sport KOI à Barcelone, fondée par le streamer espagnol Ibai Llanos et le footballeur Gérard Piqué. Dans un showmatch en 2 manches gagnantes, la Karmine perd 2-1, en ayant dominé lors des trois matchs le début de partie, mais en se faisant reprendre par deux fois à cause de combats mal négociés. Cette rencontre a suscité une énorme attention avec un pic à 477 000 spectateurs sur les streams d'Ibai et de Kameto, en plus des 15 000 spectateurs présents au Palau Sant Jordi, dont 300 ultras Karmine. Le match retour a lieu le 8 Janvier 2022 au Carrousel du Louvre à Paris. Devant un public d'un millier de personnes, la Karmine prend sa revanche sur les KOI en les battant 2-1. La rencontre a de nouveau suscité une grande attention avec un pic à 366 000 spectateurs. La Karmine a également officialisé durant l'événement l'arrivée d'Orange comme sponsor principal maillot.
+
+    Dans une LFL plus forte que jamais, la Karmine Corp démarre mal le championnat, perdant quatre de ses six premiers matchs. Dos au mur, la Karmine Corp se réveille en 4e semaine, jouée à l'Acropolis de Nice devant le public. Avec deux victoires écrasantes contre GameWard avec un Pentakill (cinq éliminations en une séquence de jeu) de Rekkles, qui tient enfin sa partie de référence, ainsi que Vitality.Bee jusque-là impérial. L'équipe revigorée entame alors une remontée du classement, et terminera deuxième de la saison régulière, à une victoire des LDLC OL.
+
+    Toute cette dynamique positive vole cependant en éclats durant les play-offs de LFL. Tout d'abord balayés sèchement par LDLC OL 3-0 (jamais la Karmine n'avait perdu de BO5 (best of 5, le premier qui gagne trois des cinq parties gagne le match) sur ce score) dans la demi-finale des gagnants, ils sont battus 3-1 par Team BDS Academy (qui remplace Team BDS parti depuis en LEC) dans la demi-finale des perdants et terminent 3e de cette saison de LFL. L’équipe est qualifiée aux Amazon European Masters et défendra son titre, mais devra passer par un tour supplémentaire.
+
+    Le tour préliminaire des Amazon European Masters fut sans grande embuche pour la KC, battant tous ses adversaires sèchement en play-in. Malgré un mauvais départ face à X7 Esports en groupe, la KC monte en puissance et finit premier de son groupe en prenant leur revanche contre les Anglais, puis bat l'équipe académique d'Unicorns of Love en quarts-de-finale 3-1. Dans des European Masters complètement dominé par les équipes françaises, la Karmine Corp affronte Vitality.Bee en demi-finale. Comme l'année dernière en Coupe de France, les abeilles remportent les deux premières manches et pousse la KC dans ses retranchements. Et comme l'année dernière, la Karmine Corp renverse la situation et s'impose 3-2. En finale se dresse une autre équipe française : LDLC OL, champions de France et invaincus dans la compétition jusqu'à présent. Après avoir concédé la première manche, la Karmine finit par gagner sur la faille ainsi que sur le plan psychologique, poussant LDLC à commettre des grosses erreurs en draft et en jeu, qui mènera à une défaite 3-1 de LDLC OL et au succès de la Karmine Corp pour ses 3èmes European Masters de suite16.
+
+    Le début du segment d'été se passe parfaitement pour la Karmine Corp, vainqueur à cinq reprises sur six rencontres. Un contexte idéal pour le KCX2. La Karmine joue son match de saison régulière contre Misfits Premier devant plus de 12 000 spectateurs à l'Accor Arena. La fête est entachée d'une défaite et de la fin de sa série de victoires. La Karmine Corp alternera ensuite victoires et défaites sans pour autant parvenir à retrouver son niveau éclatant de la fin du printemps. L'équipe doit attendre la dernière semaine pour se qualifier pour les play-offs de justesse. Ayant terminé 6e de saison régulière, la Karmine n'est pas encore qualifiée pour les Amazon European Masters et devra commencer dans l'arbre des perdants, où la moindre défaite sera éliminatoire. Ils sont alors opposés aux Boulonnais de GameWard.
+
+    Malgré sa saison régulière en deçà des attentes, la KC reste favorite pour les observateurs, s'appuyant sur son expérience dans les rencontres en 3 manches gagnantes et ses individualités supérieures sur le papier. Cependant GameWard domine son adverse sur beaucoup de plans et si la Karmine résiste bien en égalisant à 1-1, l'équipe finit par rompre et s'incline 3-1. Cette défaite a pour conséquence d'éliminer la KC des play-offs de LFL et surtout les empêche de se qualifier aux European Masters, une première depuis l'arrivée de la KC en LFL qui ne pourra pas défendre son titre, signant la fin d'une série historique.
+
+
+    Liste détaillée des matchs de la Karmine Corp lors de la saison 2022
+    
+    2023 : Une saison en dents de scie
+    Le 9 janvier, la Karmine Corp annonce sa nouvelle équipe pour 2023. Le français Duncan « Skeanz » Marquet évoluant au poste de jungler, le turc Hasan « Kaori » Sentürk évoluant au poste d'ADC et le roumain Alexandru « whiteinn » Kolozsvari évoluant au poste de support rejoignent les français Lucas « Cabochard » Simon-Meslet et Lucas « Saken » Fayard . Stefan « Nerroh » Pereira rejoint Clément « Nalkya » Guillemard et Rehareha « Reha » Ramanana comme entraîneur de l'équipe.
+
+    En parallèle, Arthur Perticoz rejoint Kameto et Prime en tant que directeur de la structure.
+
+    Cette restructuration ne permet pas à l'équipe de performer durant le Winter Split qui finit avec un bilan de 7 victoires pour 11 défaites, ce qui la classe en avant-dernière position de la LFL, synonyme de non-participation aux play-off. En mai 2023, des changements sont effectués en prévision du Summer Split. Raphaël «Targamas » Crabbé et Jakub « Cinkrof » Rokicki tous deux anciens joueurs de l'équipe réintègrent la structure au poste de support et jungler remplaçant respectivement whiteninn et Skeanz. L'ADC Caliste « Caliste » Henry-Hennebert, jeune rookie de 16 ans lors de son recrutement, remplace Kaori. Le coach Reha devient l'entraîneur principale et il est rejoint par Wadi au poste d'analyste.
+
+    Cette restructuration porte ses fruits et permet à l'équipe de prendre la 1re place du classement lors du Summer Split 2023 et de valider leur place en play-offs. La semaine d'après, l'équipe bat BK ROG à l'issue d'un match en 3-1 et se qualifie pour les EMEA Master. Durant ce Summer Split, Caliste bat le record d'éliminations sur une saison régulière et Targamas bat le record d'assistances. Ce record leur vaut d'être appelés par certains « meilleure botlane de l'histoire de la LFL ».
+
+    Le 11 août 2023, la Karmine remporte son deuxième titre de champion de France après un match en 3-0 contre BK ROG.
+
+    Le 1er septembre 2023, la Karmine s'impose 3-2 contre la structure française Team GO lors des demi-finales du Summer Split 2023 des EMEA Master, se qualifiant alors en finale contre l'équipe espagnole Movistar Riders.
+
+    Et c'est alors le 8 septembre que l'équipe Movistar Riders s'incline devant la Karmine Corp, leur laissant la victoire, le match se terminant en 3-2, la Karmine Corp remportant alors le championnat d'Europe 2023. Cette victoire est d'autant plus historique puisque le « midlaner » français Lucas « Saken » Fayard remporte ses 4èmes EMEA Master (en autant de participation) dans une Sud de France Arena survoltée.
+
+    Le 18 octobre 2023, la Karmine Corp annonce son entrée à la LEC et le jeune Caliste prolonge son contrat jusqu'en 2026.
+
+    2024 : Première année en LEC
+    La Karmine débute en 2024 dans cette league avec le Winter split et fini dernière avec 2 victoires sur 9, ce qui ne permet pas de se qualifier pour les playoffs.
+
+    Pour le Spring Split, l'équipe arrive une nouvelle fois à la dernière place malgré un changement de coach. Le responsable de la structure, Kameto, a indiqué qu'il y aura du changement au sein des joueurs pour le Summer Split.
+
+    Le premier changement annoncé est pour le post de jungler, Zhou « Bo » Yang-Bo est mis sur le banc et Can « Closer » Çelik est appelé à rejoindre les rangs de la KC. Le toplaner change aussi, Kim « Canna » Chang-Dong est recruté au profit de Lucas « Cabochard » Simon-Meslet. Enfin, Vladimiros « Vladi » Kourtidis sera promu de l'équipe LFL KarmineCorp Blue et prendra la place de Lucas « Saken » Fayard au poste de midlaner.
+
+Teamfight Tactics
+    Premier champion du monde de l'histoire
+    Le 22 août 2020, la Karmine Corp annonce la création de son roster Teamfight Tactics et la participation à la Teamfight Tactics Galaxies Championship que leur joueur Emre « Double61 » Demirtas remportera, devenant le tout premier champion du monde sur ce jeu. Début 2021, l'équipe engage un second joueur : Muhammed « CanbizZ » Canbaz, le partenaire de jeu principal de Double61. À noter que les deux joueurs ont la particularité de venir tous les deux du département de l'Orne et sont cousins.
+
+    Double 61, à deux doigt de réalisé à nouveau cette exploit, deviendra vice-champion du monde de TFT en 2024.
+
+Trackmania
+    Le 17 juillet 2020, la Karmine Corp annonce sa participation a la Trackmania Cup ainsi que son introduction sur la scène e-sport de TrackMania avec le pilote français Romain « DarkeR » Dassonneville. Un mois plus tard, le 22 août 2020, l'arrivée de Brendan « Bren » Seve est annoncée comme pilote titulaire pour la Trackmania Grand League, la compétition la plus prestigieuse sur le jeu. DarkeR lui continuera de participer à d'autres compétitions en plus d'étudier les circuits du jeu (le hunting) en contre-la-montre.
+
+    Les débuts de Bren en TMGL sous les couleurs de la KC ont lieu début 2021, pour l'édition d'hiver. Bren réussit à se qualifier directement pour la finale en se plaçant 7ème sur 16 des séries préliminaires, mais ne parvient pas à marquer de point à la première étape de la finale et fait partie des 3 premiers coureurs éliminés. Fin 2021, se déroule la seconde et dernière TMGL de l'année. Régulier, mais manquant le coche lors des journées où les points sont multipliés, Bren rate de peu la qualification directe pour la finale d'automne 2021. Il est obligé de passer par les repêchages. Il arrive jusqu'en finale des repêchages mais se fera battre d'une courte tête par le Français Alexandre « Binks » Touche, qui l'élimine.
+
+    En 2023, la Karmine Corp remporte la coupe du monde Trackmania en duo.
+
+    À la suite de cette victoire, la structure annonce se retirer de la scène Trackmania.
+
+Rocket League
+    Envol et premier trophée
+    Le 26 juillet 2021, lors de la Karmine Corp Xperience (ou KCX), le premier évènement physique avec spectateurs organisé par la structure au Palais des Congrès de Paris, la Karmine Corp annonce officiellement la création de la quatrième équipe de la structure sur le jeu Rocket League. C'est ainsi que devant le public venu initialement assister au classico face à Solary qu'ont été présentés de façon surprise les 3 joueurs de cette équipe qui viennent diversifier l'offre e-sport de la structure de Prime et Kameto.
+
+    C'est le Belge Maëllo « AztraL » Ernst, l'Espagnol Marc « Stake » Bosch et le Marocain Amine « itachi » Benayashi qui représenteront la Karmine Corp lors du tournoi de pré-saison WePlay e-sport Invitational ainsi qu'aux Rocket League Championship Series 2021-2022, le circuit de tournois officiel de Rocket League.
+
+    La Karmine Corp obtiendra son premier trophée sur Rocket League dès son premier tournoi au WePlay e-sport Invitational après leur victoire face à Team BDS. L'équipe ne partait pas favorite face aux BDS compte tenu de l'expérience de ces derniers et de leur défaite plus tôt contre eux en finale de l'arbre des gagnants sur le score de 4-1. L'organisation du tournoi avait annoncé que la finale se jouerait dans un format particulier : deux manches gagnantes de matchs en quatre parties gagnantes, sans avantage pour le vainqueur de l'arbre des gagnants. La Karmine Corp a su pleinement tirer parti de ce format en accrochant l'équipe suisse et en battant Team BDS dans les deux dernières manches après avoir perdu la première. Les différents membres de l'équipe se partagent une dotation de 15 000 dollars.
+
+    Débuts en RLCS
+    La Karmine s'engage en Rocket League Championship Series (RLCS), le circuit officiel du jeu. Le circuit est divisé en 3 segments (automne, hiver et printemps) où les meilleures équipes à l'issue de ces segments se qualifient pour des étapes mondiales intermédiaires. Les segments sont eux-mêmes entrecoupés de 3 tournois qui servent à distribuer des points. Après des bons débuts lors de la première étape, où la Karmine Corp termine demi-finaliste, le Mur Bleu rentre dans le rang. Ils ne parviennent plus à se hisser dans le dernier carré et finissent souvent au milieu du peloton. S'ils se sont qualifiés à toutes les étapes, ils ne parviennent pas à marquer assez de points pour participer aux épreuves mondiales d'automne et d'hiver.
+
+    En avril 2022, la Karmine Corp recrute un nouveau joueur, l'anglais Joseph « noly » Kidd, pour remplacer Stake, ainsi que Wagner « Eversax » Benjamin, qui passe de remplaçant à coach principal et assisté par le coach Arleyobi.
+
+    Premiers gros succès en RLCS
+    En Septembre 2022, la KCorp annonce un nouveau roster pour la saison à venir. Aztral et Noly quittent la structure et ce sont les deux français Vatira et Exotiik qui les remplacent. Le premier est considéré comme l'un des meilleurs joueurs du monde tandis que le deuxième est une étoile montante du milieu.
+
+    En Octobre 2022, durant le split (segment) d'Automne, cette nouvelle équipe gagne déjà un titre Regional Europe, une première pour la KCorp. Début 2023, l'équipe remporte deux autres titres Regional Europe.
+
+    Le 9 avril 2023 marque le point culminant de l'histoire de la KCorp en RLCS : en s'imposant 4-2 contre Faze en finale, la structure remporte un titre Major (Major d'Hiver 2023), titre international le plus important après les championnats du monde. Vatira sera désigné meilleur joueur offensif du Major ainsi que meilleur joueur au global.
+
+    Championnat du monde 2022-2023 et conclusion de la saison
+    Après un troisième segment solide, en ayant fait quatrième, deuxième, puis quatrième lors des régionaux européens, en ayant gagné le match d'exhibition des Jeux Olympiques d'esport contre Gen.G, ainsi qu'une troisième place lors du Spring Split, la Karmine Corp va aux Worlds en tant que meilleure équipe européenne en occupant le seed 1 (première place qualificative européenne du tournoi).
+
+    L'équipe finira à la quatrième place en tombant contre les futurs vainqueurs, la Team Vitality.
+
+    Vatira finira meilleur joueur européen de la saison, meilleur joueur défensif lors des mondiaux.
+
+    À l'issue de la saison et après un show match perdu contre G2 lors du KCX3, l'équipe annonce la séparation de l'équipe. Cette séparation est officialisée le 25 Octobre avec les départs de Eversax, Itachi et Exotiik. Vatira reste membre du club.
+
+    Saison 2024
+    Le 27 octobre 2023, Victor « Ferra » Francal, coach ayant gagné les mondiaux 2023-2024 avec Vitality, devient le nouveau coach de la Karmine. Le club gagne les Flip & Spin lors de la Paris Games Week 2023 en étant rejoint par les joueurs Rise et Noly en joueurs pour ce tournois car l'équipe n'a que Vatira comme joueur officiel. Le 2 décembre 2023, le joueur Rise est officialisé en compagnie du joueur belge Atow pour compléter l'équipe.
+
+    La Karmine a remporté ensuite les 3 Open Qualifier d'Europe consécutivement le 11 et 25 février ainsi que le 10 mars 20241. Ces 3 victoires consécutives permettent à l'équipe KCorp d'être facilement qualifiée au tournoi majeur de Copenhague et d'avoir le Seed 1 du Major 1.
+
+    Lors du major de Copenhague, la Karmine s'inclinera en demi-finale face à Gentle Mates.
+
+Valorant
+    Valorant VCT
+    Le 5 mai 2022, la Karmine Corp se lance sur le jeu de tir à la première personne (FPS) de Riot Games Valorant avec les joueurs Alexis « Newzera » Humbert, Michael « mikee » Lim, Jonathan « TakaS » Paupard et Ryad « Shin » Ensaad et Amine « Amilwa » Saidi. Ils sont coachés par deux anciens membres de l'équipe Vitality, Arthur « pm » Guillermet et Ahmed « ZE1SH » El Sheikh.
+
+    Après une décevante première saison VCT en 2023-2024, et comme annoncé par certains joueurs lors du KCX3, le 10 novembre 2023, la Karmine Corp annonce un changement d'équipe pour la saison 2023-2024 de VCT.
+
+    En pré-saison, la Karmine Corp participe au HereticsXP le 15 décembre 2023 avec son nouveau roster face à la nouvelle équipe d'Heretics et gagne son showmatch 13-7. La nouvelle saison VCT démarre en février 2024 avec un tournois Kickoff où les 11 équipes de la league se battent pour obtenir l'une des 2 places qualificatives pour les Masters de Madrid et la Karmine va gagner ce tournois après 7 matchs et se qualifie pour les Masters en compagnie de Heretics qui s'est aussi qualifié.
+
+    La Karmine Corp dans ces Masters débutera par une victoire 2-0 contre FPX, puis s'inclinera succinctement face aux américains de Sentinels 0-2 et face à Paper Rex, 1-2. Résultats qui ne permettront pas à l'équipe d'accéder aux play-offs.
+
+    Valorant VCT GC
+    La Karmine Corp a annoncé le 9 février 2023 une équipe 100% féminine qui participera à l’édition 2023 des Game changers EMEA. L’équipe est composée de Asma « LiriLia » Boughida, Léa « matriix » Ransquin, Mélina « Mel » Houssein, Mathilde « Nelo » Beltoise et Nouhara « Ninou » Marcos Oraha. Elles sont coachées par Mathieu « LaAw » Plantin et Emma « Emash » Beziaud Le Pochat. L’équipe est aussi 100% francophone.
+
+Super Smash Bros. Ultimate
+    Le samedi 21 janvier 2023, la Karmine Corp annonce se lancer sur un nouveau jeu : Super Smash Bros. Ultimate. L'annonce, en direct sur la chaîne de Kameto, est accompagné de la découverte du premier joueur qui rejoindra les rangs du Blue Wall , Pedro « Kurama » Alonso Jr.
+
+    Alors que l'annonce a eu lieu lors du tournoi Genesis 9, la première performance de Kurama sous les couleurs de la Karmine ne se passera pas comme prévu puisqu'il finira 17e alors qu'il était seed 8. Le jeune américain de 17 ans continuera bien sa saison avec la Karmine puisqu'il finira à la 4e place du Summit 6.
+
+    En décembre 2023, Kameto annonce que la Karmine se retire de la scène Super Smash Bros. Ultimate, car le jeu n'étant pas supporté au niveau esportif par son éditeur Nintendo, l'avenir était trop instable sur le long terme. Ceci marque donc la fin de la collaboration entre Kurama et la KC.
+
+Fortnite
+    Le 11 avril 2024, Kameto annonce en live sur Twitch que la structure sera présente sur le jeu Fortnite via le nouveau circruit compétitif proposé par l'Electronic Sports League. La Karmine n'est pas seulement joueuse de cette compétition mais elle a un rôle de partenaire au côté des structures Dignitas (en), Team Heretics, LOUD et ZETA DIVISION.
+
+Évènements physiques
+    Date	Pays	Lieu	Évènement	Affluence
+    26 juillet 2021	Drapeau de la France France	Palais des congrès de Paris	Karmine Corp Xperience	3 500 personnes
+    15 décembre 2021	Drapeau de l'Espagne Espagne	Palau Sant Jordi	Showmatch Aller KCORP VS KOI	12 000 personnes
+    8 janvier 2022	Drapeau de la France France	Carrousel du Louvre	Showmatch Retour KCORP VS KOI	2 000 personnes
+    2 et 3 février 2022	Drapeau de la France France	Palais des congrès de Nice	LFL DAY'S	2 500 personnes
+    21 juin 2022	Drapeau de la France France	Palais omnisports de Paris-Bercy	Karmine Corp Xperience 2	12 000 personnes
+    16 février 2023	Drapeau de la France France	La Seine musicale	LFL DAY'S	3 500 personnes
+    5 et 6 juillet 2023	Drapeau de la France France	Palais Nikaïa	LFL DAY'S	9 000 personnes
+    8 septembre 2023	Drapeau de la France France	Sud de France Arena	Finale European Masters	7 000 personnes
+    16 septembre 2023	Drapeau de la France France	Paris la Défense Aréna	Karmine Corp Xperience 3	28 000 personnes
+    7 et 8 février 2024	Drapeau de la France France	Palais Nikaïa	LFL DAY'S	9 000 personnes
+Structure et dirigeants
+    Organigramme
+    Organigramme de la Karmine Corp
+    Fonction	Pays	Nom
+    Cofondateur / Président-directeur général	Drapeau de la France	Kamel « Kameto » Kebir
+    Cofondateur / Directeur	Drapeau de la France	Amine « Prime » Mekri
+    Directeur	Drapeau de la France	Arthur Perticoz
+    Directeur général délégué		Zouhaïr « Kotei » Darji
+    Head of esports	Drapeau de la France	Clément Laparra
+    Directeur artistique	Drapeau de la France	Dhav « Dhav » Oza
+    Lead Content Producer	Drapeau de la France	Erwin Hamayada
+    Gestionnaire des médias sociaux		Amaury « Maul » Clerckx
+    Partenariats
+    En septembre 2021, la Karmine Corp signe un contrat de partenariat d'un an estimé à plusieurs centaines de milliers d'euros avec Direct Assurance.
+
+    En janvier 2022, la Karmine Corp annonce un partenariat avec Orange pour une durée de deux ans estimé à plusieurs centaines de milliers d'euros, dévoilant son nouveau maillot.
+
+    En mai 2022, la Karmine Corp annonce un partenariat avec Ekwateur en tant que fournisseur officiel du club. Début 2023, ce partenariat est prolongé jusqu’à la fin de l’année civile. Ekwateur aura notamment sponsorisé l'annonce de l’équipe féminine de Valorant.
+
+    En janvier 2024, la Karmine Corp annonce l'arrivée d'un nouveau partenaire officiel pour une durée de 3 ans : le CIC.
+
+Divisions
+League of Legends
+
+    Effectif de l'équipe League of Legends LEC : Karmine Corp
+    Nationalité	Pseudo	Nom	Rôle	Date d'entrée
+    Drapeau de la Corée du Sud	Canna	Kim Chang-Dong	Toplaner	2 mai 2024
+    Drapeau de la Turquie	Closer	Can Çelik	Jungler	17 avril 2024
+    Drapeau de la Grèce	Vladi	Vladimiros Kourtidis	Midlaner	2 mai 2024
+    Drapeau de l'Allemagne	Upset	Elias Lipp	ADC	3 janvier 2024
+    Drapeau de la Belgique	Targamas	Raphaël Crabbé	Support	23 mai 2023
+    Drapeau de la France	Reha	Rehareha Ramanana	Head Coach	3 janvier 2024
+    Drapeau de la Slovénie	Apples	Žiga Jereb	Assistant Coach	2 mai 2024
+    Drapeau du Royaume-Uni	Shaves	Kevin Edward Tolman	Assistant Coach	3 janvier 2024
+    Drapeau de la France		Clément Thillier	Performance Coach	3 janvier 2024
+
+    Effectif de l'équipe League of Legends LFL : Karmine Corp Blue
+    Nationalité	Pseudo	Nom	Rôle	Date d'entrée
+    Drapeau de l'Ukraine	Maynter	Volodymyr Sorokin	Toplaner	3 janvier 2024
+    Drapeau de la Turquie	113	Doğukan Balci	Jungler	3 mai 2024
+    Drapeau de l'Allemagne	Abbedagge	Felix Braun	Midlaner	3 mai 2024
+    Drapeau de la France	Caliste	Caliste Henry-Hennebert	ADC	23 mai 2023
+    Drapeau de la Turquie	Fleshy	Kadir Kemiksiz	Support	3 janvier 2024
+    Drapeau de la France	Wadi	Wadi Benarbia	Head Coach	3 janvier 2024
+    Drapeau de la France	Blidzy	Ianis Paul	Assistant Coach	14 mai 2024
+    Drapeau de la France	Souf	Soufiane Zahidi	Performance Coach	3 janvier 2024
+
+Anciens joueurs de la Karmine Corp sur League of Legends
+    Zoelys	 Théo Le Scornec	Support	22 septembre 2023	5 octobre 2023	7 matchs
+    DenVoske	 Nikolaj Asbjorn Meilby	Botlaner	22 septembre 2023	5 octobre 2023	7 matchs
+    Jiizuke	 Daniele di Mauro	Midlaner	22 septembre 2023	5 octobre 2023	7 matchs
+    White	 Aslan Panglose	Jungler	22 septembre 2023	5 octobre 2023	7 matchs
+    Wao	 Wao Dai	Toplaner	22 septembre 2023	5 octobre 2023	7 matchs
+    Cinkrof	 Jakub Rokicki	Jungler	19 mai 2023	20 novembre 2023	47 matchs
+    Skeanz	 Duncan Marquet	Jungler	9 janvier 2023	19 décembre 2023	18 matchs
+    Kaori	 Muhammed Hasan Şentürk	Botlaner	9 janvier 2023	18 mai 2023	18 matchs
+    whiteinn	Alexandru Kolozsvari	Support	9 janvier 2023	16 mai 2023	18 matchs
+    Wao	 Wao Dai	Toplaner	15 décembre 2021	6 janvier 2023	13 matchs
+    113	Drapeau de la Turquie Doğukan Balcı	Jungler	26 novembre 2021	30 novembre 2022	58 matchs
+    Hantera	 Jules Bourgeois	Support	24 novembre 2021	18 décembre 2022	58 matchs
+    Rekkles	Drapeau de la Suède Martin Larsson	Botlaner	15 novembre 2021	15 décembre 2022	55 matchs
+    Striker	 Yanis Kella	Head Coach	18 janvier 2021	20 décembre 2022	--
+    Cinkrof	 Jakub Rokicki	Jungler	23 décembre 2020	15 novembre 2021	89 matchs
+    Targamas	 Raphaël Crabbé	Support	23 décembre 2020	15 novembre 2021	89 matchs
+    xMatty	 Matthew Coombs	Botlaner	23 décembre 2020	15 novembre 2021	89 matchs
+    Adam	Drapeau de la France Adam Maanane	Toplaner	30 mars 2020	15 mai 2021	56 matchs
+    Akabane	Drapeau de la France Philippe Le	Jungler	30 mars 2020	5 octobre 2020	18 matchs
+    Helaz	Drapeau de la France Jérémy François	Support	30 mars 2020	5 octobre 2020	18 matchs
+    jujutw0	Drapeau de la France Julien Izzo	Botlaner	30 mars 2020	5 octobre 2020	18 matchs
+    Nuclearint	Drapeau de la France Ilias Bizriken	Midlaner	30 mars 2020	5 octobre 2020	18 matchs
+    Rejakar	Drapeau de la France Nicolas Perez	Head Coach	30 mars 2020	5 octobre 2020	--
+
+Teamfight Tactics
+    Effectif de l'équipe Teamfight Tactics
+    Nationalité	Pseudo	Nom	Rôle	Date d'entrée
+    Drapeau de la France	Double61	Emre Demirtas	Joueur	22 août 2020
+    Drapeau de la France	CanbizZ	Muhammed Canbaz	Joueur	4 mars 2021
+    Drapeau de l'Allemagne	DarkHydra	Christian Lüftner	Joueur	29 mai 2024
+    Drapeau de l'Allemagne	Wet Jungler		Joueur	29 mai 2024
+
+Trackmania
+
+    Anciens joueurs de la Karmine Corp sur Trackmania
+    
+    Alias	Nom	Poste	Date d'arrivée	Date de départ
+    Bren	 Brendan Seve	Joueur	22 août 2020	19 décembre 2023
+    Otaaaq	 Youen Egler	Joueur	16 décembre 2022	19 décembre 2023
+    DarkeR	 Romain Dassonneville	Joueur	17 juillet 2020	1er avril 2022
+
+Rocket League
+    Effectif de l'équipe Rocket League
+    Nationalité	Pseudo	Nom	Rôle	Date d'entrée
+    Drapeau de la Belgique	Atow.	Tristan Soyez	Joueur	2 décembre 2023
+    Drapeau de la France	Vatira	Axel Touret	Joueur	2 octobre 2022
+    Drapeau de l'Angleterre	rise.	Finlay Ferguson	Joueur	2 décembre 2023
+    Drapeau de la France	Ferra	Victor Francal	Coach	2 décembre 2023
+    Drapeau de la France	Jordi	Jordi Nouvellet	Performance Coach	19 janvier 2024
+
+    Anciens joueurs de la Karmine Corp sur Rocket League
+    Eversax	 Benjamin Wagner	Coach	19 avril 2022	16 septembre 2023
+    ExoTiiK	 Brice Bigeard	Joueur	2 octobre 2022	16 septembre 2023
+    itachi	 Amine Benayachi	Joueur	26 juillet 2021	16 septembre 2023
+    Noly	 Joseph Kidd	Joueur	19 avril 2022	24 septembre 2022
+    AztraL	 Maëllo Ernst	Joueur	26 juillet 2021	21 septembre 2022
+    Stake	 Marc Bosch Plujà	Joueur	26 juillet 2021	17 avril 2022
+Valorant
+    Effectif de l'équipe Valorant VCT
+    Nationalité	Pseudo	Nom	Rôle	Date d'entrée
+    Drapeau de la Tchéquie	Magnum	Martin Peňkov	Joueur	12 décembre 2023
+    Drapeau de la France	Shin	Ryad Ensaad	Joueur	11 novembre 2022
+    Drapeau de la Tchéquie	marteen	Martin Pátek	Joueur	12 décembre 2023
+    Drapeau des États-Unis	N4RRATE	Marshall Massey	Joueur	12 décembre 2023
+    Drapeau du Portugal	tomaszy	Tomás Machado	Joueur	12 décembre 2023
+    Drapeau de la Russie	Engh	Andrey Sholokhov	Head Coach	12 décembre 2023
+    Drapeau de la France	ZE1SH	Ahmed El Sheikh	Assistant Coach	12 décembre 2023
+    Drapeau de la France	Youenn	Youenn Rocaboy	Performance Coach	19 janvier 2024
+
+    Effectif de l'équipe Valorant GC
+    Nationalité	Pseudo	Nom	Rôle	Date d'entrée
+    Drapeau de la France	Nelo	Mathilde Beltoise	Joueuse	9 février 2023
+    Drapeau de la Belgique	Matriix	Léa Ransquin	Joueuse	9 février 2023
+    Drapeau de la Russie	Glance	Anastasiya Anisimova	Joueuse	28 janvier 2024
+    Drapeau de la Turquie	Kuripuuya	Ece Selin Balıkdere	Joueuse	28 janvier 2024
+    Drapeau de l'Allemagne	Roxi	Vivian Schilling	Joueuse	17 Mai 2024
+    Drapeau de la France	LaAw	Mathieu Plantin	Head Coach	9 février 2023
+    Drapeau de la France	uNKOE	Benjamin Chevasson	Coach	28 janvier 2024
+    Drapeau de la France	Fabkill	Fabien Quillevere	Performance Coach	28 janvier 2024
+
+    Anciens joueurs de la Karmine Corp sur Valorant VCT
+    Alias	Nom	Poste	Date d'arrivée	Date de départ
+    Nivera	 Nabil Benrlitom	Joueur	11 novembre 2022	10 novembre 2023
+    xms	 Alexandre Forté	Joueur	11 novembre 2022	10 novembre 2023
+    Scream	 Adil Benrlitom	Joueur	11 novembre 2022	3 septembre 2023
+    ZE1SH	 Ahmed El Sheikh	Joueur	19 avril 2023	12 décembre 2023
+    Newzera	 Alexis Humbert	Joueur	11 novembre 2022	19 avril 2023
+    ZE1SH	 Ahmed El Sheikh	Assistant Coach	5 mai 2022	19 avril 2023
+    TakaS	 Jonathan Paupard	Joueur	5 mai 2022	30 septembre 2022
+    Mikee	 Michael Lim	Joueur	5 mai 2022	30 septembre 2022
+    Amilwa	 Amine Said	Joueur	5 mai 2022	30 septembre 2022
+ 
+    Anciennes joueuses de la Karmine Corp sur Valorant GC
+    Alias	Nom	Poste	Date d'arrivée	Date de départ
+    Ninou	 Nouhara Marcos Oraha	Joueuse	16 novembre 2023	6 janvier 2024
+    Mel	 Mélina Houssein	Joueuse	16 novembre 2023	6 janvier 2024
+    LiriLia	 Asma Boughida	Joueuse	27 novembre 2023	6 janvier 2024
+    speedowka	 Weronika Dabrowska	Joueuse	28 janvier 2024	17 mai 2024
+ 
+Super Smash Bros. Ultimate
+    Anciens joueurs de la Karmine Corp sur Super Smash Bros. Ultimate
+    Alias	Nom	Poste	Date d'arrivée	Date de départ
+    Kurama	Drapeau des États-Unis Pedro Alonso Jr.	Joueur	21 janvier 2023	19 décembre 2023
+
+Fortnite
+    Effectif de l'équipe Fortnite
+    Nationalité	Pseudo	Nom	Rôle	Date d'entrée
+    Drapeau de la Russie	Malibuca	Danila Yakovenko	Joueur	9 mai 2024
+    Drapeau de la Lettonie	Merstach	Andrejs Piratovs	Joueur	9 mai 2024
+    Drapeau de l'Angleterre	Veno	Harry Pearson	Joueur	11 mai 2024
+    Drapeau de la Russie	Swizzy	Egor Luciko	Joueur	11 mai 2024
+    Drapeau du Danemark	Anas	Anas El-Abd	Joueur	26 mai 2024
+    Drapeau de la France	Oslo	Philippe Carvalho	Coach	9 mai 2024
+
+Tekken 8
+    Effectif de l'équipe Tekken 8
+    Nationalité	Pseudo	Nom	Rôle	Date d'entrée
+    Drapeau de la Corée du Sud	JDCR	Kim Hyun-jin	Joueur	29 mai 2024
+
+Street Fighter 6
+    Effectif de l'équipe Street Fighter 6
+    Nationalité	Pseudo	Nom	Rôle	Date d'entrée
+    Drapeau de la France	Kilzyou	Kilyan Faucheux	Joueur	29 mai 2024
+
+Résultats sportifs
+Palmarès
+Palmarès des équipes de la Karmine Corp (46 titres)
+League of Legends (7)	Teamfight Tactics (6)	Rocket League (11)
+EMEA Masters :
+Champion Printanier en 2021 et 2022
+Champion Estival en 2021 et 2023
+LFL :
+Champion Printanier en 2021 et 2024
+Champion Estival en 2023
+World Championship :
+Champion Galaxies en 2020
+Rising Legends (EMEA) :
+Champion G&G en 2022
+Champion MA! en 2023
+Champion MA! Golden Spatula Cup en 2023
+HexLeague :
+Champion en 2022
+Fresh Cup :
+Champion en 2022
+RLCS Winter Split Major :
+Champion en 2023
+RLCS Europe Regional :
+Vainqueur Fall Cup en 2022
+Vainqueur Winter Open en 2023
+Vainqueur Winter Cup en 2023
+Vainqueur Open Qualifier #1 en 2024
+Vainqueur Open Qualifier #2 en 2024
+Vainqueur Open Qualifier #3 en 2024
+Olympic Esports Week Showmatch :
+Vainqueur en 2023
+WePlay Esports Invitational (EMEA) :
+Champion en 2021
+Flip & Spin (EMEA) :
+Vainqueur en 2023
+EWC :
+Vainqueur Community Cup: Europe en 2024
+Trackmania (3)	Super Smash Bros. Ultimate (3)	Valorant (2)
+TMWT World Championship :
+Vainqueur en 2023
+Maji Mondays :
+Vainqueur en 2023
+XPEvo Cup :
+Vainqueur en 2023
+Get On My Level :
+Champion Doubles en 2023
+CIRQUE du CFL :
+Champion Doubles en 2023
+Ultimate Fighting Arena :
+Champion Doubles en 2023
+VCT EMEA Kickoff :
+Vainqueur en 2024
+VCT Game Changers EMEA Contenders :
+Vainqueur en 2024
+Fortnite (12)	Tekken 8 (0)	Street Fighter 6 (2)
+FNCS :
+Vainqueur Major 2 en 2024
+Vainqueur Major 3: North America - Qualifier 1 en 2024
+Vainqueur Major 3 - Semi-Finals 2: Europe en 2024
+ESL Europe Regional :
+Vainqueur Week 3 en 2024
+Performance Evaluation :
+Vainqueur C5S2 - Session 10 en 2024
+Vainqueur C5S3 - Session 1 en 2024
+Squads Victory Cup :
+Vainqueur C5S3 - Session 2: Europe en 2024
+Duos Cash Cup :
+Vainqueur C5S3 - Week 4: North America en 2024
+Duos ZB Cash Cup :
+Vainqueur C5S3 - Week 3: Brazil en 2024
+Vainqueur C5S3 - Week 3: North America en 2024
+Vainqueur C5S3 - Week 4: North America en 2024
+Vainqueur C5S3 - Week 5: Asia en 2024
+Dzert Sandstorm :
+Vainqueur en 2024
+CPT World Warrior :
+Vainqueur France-Monaco #2 en 2024
+Parcours notables
+League of Legends :
+Finaliste Estival de la LFL en 2021.
+Finaliste des LFL Finals en 2021.
+3e/4e place lors de la Coupe de France en 2022.
+5e/8e place lors de la Coupe de France en 2023.
+Teamfight Tactics :
+3e place lors des Dragonlands en 2022.
+3e place du Split 1 en 2022.
+Rocket League :
+5e/8e place lors du Rocket League Championship Series 2022.
+4e et 5e/8e places lors des RLCS - International LAN Major 2022.
+3e/4e place lors du Rocket League Championship Series 2023.
+3e place lors des RLCS - International LAN Major 1 2024.
+Valorant :
+3e/4e place au VRL France : Révolution.
+4e place lors de la Lyon e-Sport 2022.
+Records et distinctions
+	
+Cette section ne s'appuie pas, ou pas assez, sur des sources secondaires ou tertiaires indépendantes du sujet.
+Pour l'améliorer, ajoutez-en, ou placez des modèles {{Source secondaire souhaitée}} ou {{Source secondaire nécessaire}} sur les passages mal sourcés. (janvier 2024)
+
+League of Legends :
+    Structure ayant le plus de participation en finale des Amazon European Masters (4).
+    Structure la plus titrée des Amazon European Masters (4).
+    Seule structure ayant remporté trois fois de suite les Amazon European Masters (Printemps 2021, Été 2021, Printemps 2022).
+    Seule structure à s'être qualifié trois fois de suite pour la finale des Amazon European Masters (Printemps 2021, Été 2021, Printemps 2022).
+    Seule structure ayant remporté deux fois de suite les Amazon European Masters (Printemps 2021, Été 2021).
+    Seule structure à s'être qualifié deux fois de suite pour la finale des Amazon European Masters (Printemps 2021, Été 2021).
+Teamfight Tactics :
+    Remporte le tout premier championnat du monde (Galaxies Championship) du jeu (2020).
+    Notes et références
+    Notes
+    Le top laner est un rôle du jeu League of Legends. Le joueur joue sur la zone haute de la carte appelée la top lane.
+    Le jungler est un rôle du jeu League of Legends. Le joueur joue dans la jungle, une zone de la carte remplie de monstres. Il prend des objectifs un peu partout dans la jungle et intervient pour aider ses alliés sur leurs zones.
+    Le mid laner est un rôle du jeu League of Legends. Le joueur joue sur la zone se trouvant au milieu de la carte appelée la mid lane.
+    L'AD Carry, appelé aussi ADC ou bot laner, est un rôle du jeu League of Legends. Le joueur joue sur la zone basse de la carte appelée la bot lane. Il forme un duo avec le joueur ayant le rôle support.
+    Le support est un rôle du jeu League of Legends. Le joueur joue sur la zone basse de la carte appelée la bot lane. Il forme un duo avec le joueur ayant le rôle d'AD Carry. Son but est d'apporter du soutien à son équipier afin qu'il puisse prendre rapidement de l'expérience.
+    Surnom de l'équipe Misfits Gaming en référence à leur logo représentant un lapin.
+    Peut se traduire par effectif, roster désigne l'ensemble des joueurs d'une équipe.
+    Soit un match amical, c'est-à-dire un match en condition de tournoi mais qui ne s'inscrit dans aucune compétition officielle.
+
+
+
+Références
+« Avec les “Blue Wall” au championnat de France de League of Legends [archive] », sur France Info, 11 juillet 2023 (consulté le 8 janvier 2024)
+Tom Prevot, « Esport : des ultras «comme dans le foot» pour la Karmine Corp [archive] », sur Le Figaro, 14 mars 2022 (consulté le 8 janvier 2024)
+« L'incroyable success story de la Karmine Corp : le club d'esport français aura ses Arènes à Evry-Courcouronnes, l'été prochain [archive] », sur France Info, 23 septembre 2023 (consulté le 8 janvier 2024)
+« Esport - League of Legends : la Kameto Corp rejoint la Division 2 [archive] », sur L'Équipe (consulté le 1er juin 2021).
+Paul Arrivé, « TFT : le Français Emre « Double61 » Demitras champion du monde [archive] », sur L'Équipe, 9 septembre 2020 (consulté le 7 mars 2024)
+Gaston Cuny, « Prime s’allie à la Kameto Corp pour rentrer en LFL avec Karmine Corp [archive] », sur Dexerto, 16 novembre 2020 (consulté le 7 mars 2024)
+« Kameto et Prime créent la Karmine Corp (KC) et remplacent la Kameto Corp [archive] », sur Breakflip, 16 novembre 2020 (consulté le 7 mars 2024)
+« Esport - TrackMania : Breen et Otaaaq champions du monde [archive] », sur L'Équipe (consulté le 8 janvier 2024)
+« Esport: la Karmine Corp devient championne du monde sur le jeu de course "Trackmania" [archive] », sur BFMTV (consulté le 8 janvier 2024)
+Paul Arrivé, « Kameto : « On a voulu voir plus haut avec Prime » [archive] », sur L'Équipe, 20 novembre 2020 (consulté le 27 février 2024)
+Patrick Latremolière, « League of Legends : la Karmine Corp remporte le segment de printemps de la LFL [archive] », sur La Provence, 26 mars 2021 (consulté le 7 mars 2024)
+Paul Arrivé, « League of Legends : la Karmine Corp remporte les European Masters [archive] », sur L'Équipe, 2 mai 2021 (consulté le 3 mai 2021).
+« L’équipe française Karmine Corp remporte les Masters européens de « League of Legends » », Le Monde, 3 mai 2021 (lire en ligne [archive], consulté le 4 mai 2021)
+Paul Arrivé, « La Karmine Corp arrache un doublé inédit [archive] », sur L'Équipe, 19 septembre 2021 (consulté le 27 septembre 2021).
+Flamm, « La Karmine Corp gagne les European Masters Summer split 2021 [archive] », sur Against All Authority (consulté le 27 septembre 2021).
+« Esport - League of Legends : intouchable, la Karmine Corp conserve son trophée des European Masters [archive] », sur L'Équipe (consulté le 8 mai 2022).
+Corentin Phalip, « League of Legends : Départ difficile pour la Karmine en EMEA Masters [archive] », sur L'Équipe, 24 août 2023 (consulté le 7 mars 2024)
+Paul Arrivé, « League of Legends : la Karmine invincible [archive] », sur L'Équipe, 15 septembre 2023 (consulté le 7 mars 2024)
+« E-sport : le club français Karmine Corp va intégrer l’élite européenne de « League of Legends » [archive] », sur Le Monde, 19 octobre 2023 (consulté le 8 janvier 2024)
+« L'annonce la plus attendue de la fin d'année : KC en LEC, du rêve à la réalité [archive] », sur MGG, 18 octobre 2023 (consulté le 7 mars 2024)
+« Esport - Karmine Corp : KCX, un événement ultra réussi [archive] », sur L'Équipe (consulté le 14 août 2024)
+« De Twitch à Paris La Défense Arena, le club d’e-sport Karmine Corp remplit les salles [archive] », sur Le Figaro, 15 septembre 2023 (consulté le 7 mars 2024)
+Paul Arrivé, « Esport : à Bercy, le nouveau tour de force de la Karmine Corp [archive] », sur L'Equipe, 24 juin 2022 (consulté le 8 janvier 2024)
+« Esport : la folie de la Karmine Corp va s'emparer de La Défense Arena [archive] », sur Le Figaro, 15 septembre 2023 (consulté le 7 mars 2024)
+Paul Arrivé et Corentin Parbaud, « Kameto, cofondateur de la Karmine Corp : « La folie, je l'ai toujours » [archive] », sur L'Équipe, 15 septembre 2023 (consulté le 7 mars 2024)
+« E-sport : en 2024, la Karmine Corp s’installera dans les « Arènes de l’Agora », à Evry [archive] », sur Le Parisien, 16 septembre 2023 (consulté le 8 janvier 2024)
+« Karmine Blue Stars, nouveau projet de la structure pour trouver les talents de demain ! [archive] », sur Breakflip, 16 septembre 2023 (consulté le 7 mars 2024)
+Corentin Parbaud, « League of Legends : les jeunes de la Karmine impressionnent [archive] », sur L'Équipe (consulté le 7 mars 2024)
+« LoL : Team Oplon reste en Division 2 de la LFL en 2021 [archive] », sur Millenium FR (consulté le 13 décembre 2021).
+« LoL : pour son entrée en LFL la Karmine Corp annonce Adam en premier joueur [archive] », sur nrj.fr, 1er mars 2021 (consulté le 8 avril 2024)
+« LoL : pour son entrée en LFL la Karmine Corp annonce Adam en premier joueur [archive] », sur Millenium FR (consulté le 1er juin 2021).
+« La Karmine Corp a dévoilé son équipe League of Legends pour la LFL [archive] », sur Dexerto.fr, 24 décembre 2020 (consulté le 1er juin 2021).
+« LFL 2021 : Power Ranking anticipé avant le début du Spring Split [archive] », sur Millenium FR (consulté le 1er juin 2021).
+« Esport - League of Legends : la Karmine Corp renverse Solary, Misfits au top, les résultats de la semaine de LFL [archive] », sur L'Équipe (consulté le 1er juin 2021).
+Zonneuve, « La Karmine Corp championne de LFL [archive] », sur Eclypsia, 25 mars 2021 (consulté le 15 avril 2024)
+Tom Garnier, « EU Masters : La Karmine Corp se qualifie pour les quarts de finale [archive] » (consulté le 1er juin 2021).
+« Esport - League of Legends : la Karmine Corp remporte les European Masters [archive] », sur L'Équipe (consulté le 1er juin 2021).
+« Macron Karmine Corp, le Président félicite l'équipe de Kameto et Prime [archive] », sur Breakflip (consulté le 1er juin 2021).
+« Esport - League of Legends : Adam quitte la Karmine Corp [archive] », sur L'Équipe (consulté le 1er juin 2021).
+« Esport - League of Legends : Cabochard rejoint la Karmine Corp [archive] », sur L'Équipe (consulté le 1er juin 2021).
+« Esport - League of Legends : la Karmine Corp défendra ses titres [archive] », sur L'Équipe (consulté le 13 décembre 2021).
+« LFL Summer 2021 : Misfits Premier champion de France après avoir renversé KC [archive] », sur Millenium FR, 4 octobre 2021 (consulté le 15 avril 2024)
+« Esport - League of Legends : la Karmine Corp renverse Vitality et verra Monaco [archive] », sur L'Équipe (consulté le 13 décembre 2021).
+Lucas Jacque, « Esport - League of Legends  : Akabane et Hantera, les autres chances françaises des European Masters [archive] », sur L'Équipe, 30 août 2021 (consulté le 8 avril 2024)
+« Esport - League of Legends : facile, la Karmine Corp rejoint le dernier carré des European Masters [archive] », sur L'Équipe (consulté le 13 décembre 2021).
+« BIG Akabane "Je vais détruire Cinkrof dans la jungle !" [archive] », sur Millenium FR (consulté le 13 décembre 2021).
+« Esport - League of Legends : la Karmine Corp arrache sa place en finale des European Masters [archive] », sur L'Équipe (consulté le 13 décembre 2021).
+Against All Authority- aAa, « Misfits Premier échoue face à Fnatic Rising en demi-finale des European Masters [archive] », sur Team aAa (consulté le 13 décembre 2021).
+Jivé, « La Karmine Corp championne d'Europe [archive] », sur Eclypsia, 19 septembre 2021 (consulté le 15 avril 2024)
+Paul Arrivé, « Esport - League of Legends : la Karmine Corp arrache un doublé inédit [archive] », sur L'Équipe, 19 octobre 2021 (consulté le 8 avril 2024)
+« Esport - League of Legends : Misfits Premier renverse la KCorp [archive] », sur L'Équipe (consulté le 13 décembre 2021).
+« Karmine Corp : Annonces pour les 1 an [archive] », sur Actustream, 15 novembre 2021.
+Against All Authority- aAa, « Mercato LoL : la Karmine Corp fait ses adieux à Cinkrof, xMatty et Targamas [archive] », sur Team aAa (consulté le 16 novembre 2021).
+Paul Arrivé, « League of Legends : Rekkles va rejoindre la Karmine Corp [archive] » Accès libre, sur L'Équipe, 15 novembre 2021 (consulté le 15 novembre 2021).
+« Rekkles chez la Karmine Corp en LFL ? Tous les détails du deal [archive] », sur Millenium FR (consulté le 30 novembre 2021).
+« L'Équipe - L'actualité du sport en continu. [archive] », sur L'Équipe (consulté le 30 novembre 2021).
+(en) « Ibai's KOI vs Karmine Corp puts LCS finals to shame with 477k viewers on Twitch [archive] », sur Dexerto, 16 décembre 2021 (consulté le 16 décembre 2021).
+Paul Arrivé, « Esport - League of Legends : KCorp, Koi, naissance d'une rivalité [archive] » Accès libre, sur L'Équipe, 16 décembre 2021 (consulté le 8 avril 2024)
+Against All Authority- aAa, « Cabochard, Rekkles et les Kcorp remportent le match retour face à KOI [archive] », sur Team aAa (consulté le 9 janvier 2022).
+Paul Arrivé, « Esport : Orange, nouveau partenaire de la Karmine Corp [archive] » Accès libre, sur L'Équipe, 8 janvier 2022 (consulté le 8 avril 2024)
+« LFL : Le classico Karmine Corp – Solary tient ses promesses [archive] », sur Gaming Up, 27 janvier 2022 (consulté le 8 avril 2022).
+« Esport - League of Legends : devant son public, la Karmine a lancé sa saison, LDLC OL en tête de la LFL [archive] », sur L'Équipe (consulté le 8 avril 2022).
+Against All Authority- aAa, « La saison régulière de la LFL est terminée, LDLC OL et la Karmine Corp terminent dans le top 2 et se qualifient pour les EUM [archive] », sur Team aAa (consulté le 8 avril 2022).
+« LDLC OL écrase la Karmine Corp en playoffs de la LFL - E.SPORT.FR [archive] », 24 mars 2022 (consulté le 8 avril 2022).
+« Esport - League of Legends : BDS bat la Karmine Corp et file en finale de LFL [archive] », sur L'Équipe (consulté le 8 avril 2022)
+« Esport - League of Legends : BDS bat la Karmine Corp et file en finale de LFL [archive] », sur aaa.com, 1er mai 2022 (consulté le 8 avril 2024)
+Flamm, « Une victoire 3-0 et un pentakill pour Vitality.Bee en quart de finale des European Masters [archive] », sur L'Équipe (consulté le 8 mai 2022).
+« Esport - League of Legends : la Karmine Corp renverse Vitality et jouera la finale des European Masters [archive] », sur L'Équipe (consulté le 8 mai 2022).
+« Le KCX2 ou comment la Karmine Corp entretient sa hype [archive] », sur Eclypsia (consulté le 23 août 2022).
+Flamm, « Pas d'European Masters pour la Karmine Corp, battue par GameWard dans ce premier tour des playoffs de la LFL Summer Split [archive] », sur team-aaa.com, 5 août 2022 (consulté le 8 avril 2024)
+« GameWard envoie la Karmine Corp en vacances [archive] », sur Millenium FR (consulté le 23 août 2022).
+Paul Arrivé, « Esport - League of Legends : la Karmine Corp présente son équipe pour la saison 2023 [archive] » Accès libre, sur L'Équipe, 9 janvier 2023 (consulté le 9 janvier 2023).
+Corentin Parbaud, « Esport - League of Legends : Cinkrof et Targamas de retour à la Karmine [archive] » Accès libre, sur L'Équipe, 24 mai 2023 (consulté le 12 juin 2023).
+Tipsalewo, « KC et Izi Dream, destins croisés ou destin liés après un mercato XXL ? [archive] » Accès libre, sur Millenium FR, 31 mai 2023 (consulté le 14 juin 2023).
+Benjamin Vanese, « La Karmine Corp se défait de BK ROG et se qualifie pour la finale de la LFL Summer Split 2023 [archive] » Accès libre, sur Team aAa, 5 août 2023 (consulté le 8 août 2023).
+Paul Arrivé, « Esport - League of Legends : Caliste, le plus beau des cadeaux [archive] » Accès libre, sur L'Équipe, 4 août 2023 (consulté le 8 août 2023).
+Ethan Cohen, « League of Legends : Caliste-Targamas, meilleure botlane de l'histoire de la LFL ? [archive] » Accès libre, sur Eclypsia, 27 juillet 2023 (consulté le 8 août 2023).
+Paul Arrivé, « Esport - League of Legends : la Karmine Corp championne de France [archive] » Accès libre, sur L'Équipe, 11 août 2023 (consulté le 11 août 2023).
+« Esport - League of Legends : la Karmine Corp arrache sa place en finale des EMEA Masters [archive] », sur L'Équipe (consulté le 6 septembre 2023).
+« Karmine Corp annonce rejoindre la LEC [archive] », sur Sheep Esports, 18 octobre 2023 (consulté le 8 janvier 2024).
+« E-sport : le club français Karmine Corp va intégrer l’élite européenne de « League of Legends » », Le Monde.fr, 19 octobre 2023 (lire en ligne [archive], consulté le 11 avril 2024)
+Ethan Cohen, « League of Legends - LEC : la Karmine délivrée, G2 tacle son rival, GiantX se rapproche [archive] », sur Eclypsia, 28 janvier 2024 (consulté le 16 avril 2024)
+Lucas Jacque, « League of Legends - LEC : Rogue éliminé, G2 impressionne, MAD Lions KOI top 4 [archive] », sur Eclypsia, 29 janvier 2024 (consulté le 16 avril 2024)
+(en) « SOURCES KARMINE CORP TO REPLACE HEAD COACH POSITION [archive] », sur sheepesport.com (consulté le 11 avril 2024)
+« LEC : Closer, première recrue estivale de la Karmine Corp [archive] », sur E.SPORT.FR, 16 avril 2024 (consulté le 16 avril 2024)
+(en) « SOURCES CLOSER REACHES VERBAL AGREEMENT WITH KARMINE CORP IN THE LEC PENDING VISA APPROVAL [archive] », sur sheepesport.com (consulté le 16 avril 2024)
+« Canna Karmine Corp LoL, le joueur coréen rejoint l'équipe pour le Summer Split et remplace Cabochard ! [archive] », sur Breakflip (consulté le 3 mai 2024)
+« Le Français Double61 sacré champion du monde de TFT ! - E.SPORT.FR [archive] », 5 septembre 2020 (consulté le 9 janvier 2022).
+« Des rumeurs autour de l'arrivée de la Karmine Corp sur Rocket League [archive] », sur Team aAa, 25 juin 2021 (consulté le 3 janvier 2022).
+Hugo Bernabeu, « Les 3 actus esport de la semaine avec la Karmine Corp, FIFA 22 et la Trackmania Cup - Sport.fr [archive] » [shtm], sur sport.fr, 30 juillet 2021 (consulté le 3 janvier 2022).
+« Bren rejoint l'écurie de la Kameto Corp sur Trackmania | ActuStream [archive] », sur actustream.fr (consulté le 7 janvier 2022).
+« La Karmine Corp championne du monde sur TrackMania ! [archive] », sur Red Bull, 27 novembre 2023 (consulté le 16 avril 2024)
+« Esport: la Karmine Corp devient championne du monde sur le jeu de course "Trackmania" [archive] », sur BFMTV (consulté le 16 avril 2024)
+Damien Garcia, « Mais pourquoi la Karmine Corp se retire de la compétition sur TrackMania, Super Smash Bros. et Teamfight Tactics ? [archive] », sur Konbini - Musique, cinéma, sport, food, news : le meilleur de la pop culture, 20 décembre 2023 (consulté le 16 avril 2024)
+« Esport : la Karmine Corp débarque sur Rocket League [archive] », sur L'Équipe (consulté le 7 janvier 2022).
+« La Karmine Corp annonce son nouveau roster Rocket League [archive] », sur Eclypsia (consulté le 7 janvier 2022).
+Gaetan Thoron, « La Karmine Corp et le belge AztraL rassurent sur Rocket League en gagnant le Weplay Esports Invitational [archive] », sur DHnet, 11 avril 2024 (consulté le 11 avril 2024)
+« Esport - Rocket League : la Karmine Corp performante d'entrée [archive] », sur L'Équipe (consulté le 7 janvier 2022).
+(en) « Update On WePlay Invitational Seeding [archive] », sur weplay.tv (consulté le 7 janvier 2022).
+Lucas Vilpoux, « La Karmine Corp fait des changements sur Rocket League [archive] » Accès libre, sur Gaming Up, 20 avril 2022 (consulté le 23 avril 2022).
+« Rocket League: du changement pour la Karmine Corp [archive] » Accès libre, sur Eclypsia (consulté le 23 avril 2022).
+Zonneuve, « Rocket League: la KC dévoile son nouveau roster [archive] », sur Eclypsia, 3 octobre 2022 (consulté le 11 avril 2024)
+« Esport - Rocket League - Vatira : « On va éclater tout le monde » [archive] », sur L'Équipe (consulté le 11 avril 2024)
+Zonneuve, « La Karmine Corp remporte le Regional 2 des RLCS EU [archive] », sur Eclypsia, 31 octobre 2022 (consulté le 11 avril 2024)
+Corentin Phalip, « Rocket League : la Karmine Corp remporte le Major du segment hivernal devant Faze Clan [archive] », sur Eclypsia, 10 avril 2023 (consulté le 11 avril 2024)
+(en) Max Thielmeyer, « Karmine Corp Seize Victory In Thrilling Rocket League Championship Series Winter Major Finale [archive] », sur Forbes (consulté le 11 avril 2024)
+Diane Masson, « Rocket League : Vitality champion du monde [archive] », sur Eclypsia, 13 août 2023 (consulté le 11 avril 2024)
+Julie Froetscher, « Rocket League : la Karmine Corp acte le départ d'Itachi, ExoTiiK et Eversax [archive] », sur Eclypsia, 25 octobre 2023 (consulté le 11 novembre 2023).
+Julie Froetscher, « Rocket League : la Karmine Corp acte le départ d'Itachi, ExoTiiK et Eversax [archive] », sur Eclypsia, 25 octobre 2023 (consulté le 11 avril 2024)
+« RLCS : la Karmine Corp s’offre le champion du monde Ferra [archive] », sur E.SPORT.FR, 28 octobre 2023 (consulté le 11 novembre 2023).
+Lucas Jacque, « Rocket League : Rise et Atow rejoignent la Karmine Corp [archive] », sur Eclypsia, 2 décembre 2023 (consulté le 16 avril 2024)
+Lucas Jacque, « Rocket League - RLCS EU : le triplé pour la Karmine Corp [archive] », sur Eclypsia, 11 mars 2024 (consulté le 11 avril 2024)
+« «Rocket League»: Un sans-faute pour Gentle Mates à Copenhague [archive] », sur 20 minutes, 1er avril 2024 (consulté le 11 avril 2024)
+Benjamin Vanese, « La Karmine Corp débarque officiellement sur Valorant [archive] » Accès libre, sur Team aAa, 5 mai 2022 (consulté le 6 mai 2022).
+Gaston Cuny, « La Karmine Corp navigue désormais sur Valorant pour dominer davantage [archive] » Accès libre, sur Dexerto.fr, 5 mai 2022 (consulté le 6 mai 2022).
+« La Karmine Corp Se Sépare De Son Roster Valorant - Actualités [archive] », sur Mandatory.gg, 13 novembre 2023 (consulté le 11 mars 2024)
+« Esport - Valorant : premier titre européen pour la Karmine Corp [archive] », sur L'Équipe (consulté le 11 mars 2024)
+« VALORANT Esports [archive] », sur valorantesports.com (consulté le 19 mars 2024)
+(en) « VALORANT Champions Tour 2024: Masters Madrid [archive] », sur Liquipedia VALORANT Wiki (consulté le 19 mars 2024)
+« Equipe KC Valorant féminine, qui sont les joueuses ? [archive] », sur Breakflip (consulté le 14 février 2023).
+« La Karmine Corp se lance sur Smash Bos Ultimate avec Kurama, le premier joueur officiel de la structure [archive] », sur Breakflip (consulté le 17 avril 2024)
+« Esport - Smash : le dernier Summit pour acola, Glutonny septième [archive] », sur L'Équipe (consulté le 17 avril 2024)
+Diane Masson, « La Karmine Corp cesse ses activités sur Trackmania, TFT et Smash [archive] », sur Eclypsia, 19 décembre 2023 (consulté le 17 avril 2024)
+« "Le Blue Wall arrive": la Karmine Corp annonce qu'elle se lance sur Fortnite [archive] », sur BFMTV (consulté le 16 avril 2024)
+La rédaction, « La Karmine Corp débarque sur Fortnite [archive] », sur Eclypsia, 12 avril 2024 (consulté le 16 avril 2024)
+« Direct Assurance s’associe à la Karmine Corp [archive] », sur Sport Strtatégies (consulté le 15 septembre 2021).
+« Esport : Orange, nouveau partenaire de la Karmine Corp [archive] », sur L'Équipe (consulté le 16 avril 2024)
+Sam Repoux, « ekWateur devient fournisseur de la KARMINE CORP ! [archive] », sur sportstrategies.com, 2 mai 2022 (consulté le 4 avril 2024)
+Quentin Coldefy et Paul Arrivé, « Le CIC devient partenaire de la Karmine Corp pour trois ans », L’Équipe, 3 janvier 2024 (lire en ligne [archive])
