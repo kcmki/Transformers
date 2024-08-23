@@ -1,7 +1,5 @@
 Karmine Corp
-Histoire
 Fondation	30 mars 2020 (Kameto Corp)  16 novembre 2020 (Karmine Corp)
-Cadre
 Sigles	KCorp, KC
 Surnoms	(en) Blue Wall, "La Prestigieuse"
 Type	Club esportif
@@ -16,12 +14,8 @@ Directeurs	Prime (depuis 2021), Arthur Perticoz (d) (depuis 2023)
 Personnes clés	Kotei (d) (directeur général délégué)
 Propriétaire	Kameto (50,84 %)
 Sponsors	Fitness Park, Logitech, Michelin, Orange, Samsung Electronics, NZXT (en), Red Bull, Ekwateur, Crédit industriel et commercial, Celio
-Site web	
-www.karminecorp.fr
-Identifiants
-SIREN	8905751
-TVA européenne	FR488905751
-OpenCorporates	fr/8905751
+Site web	www.karminecorp.fr
+Identifiants    SIREN	8905751     TVA européenne	FR488905751     OpenCorporates	fr/8905751
 
 Karmine Corp, couramment appelée KCorp ou KC, est une structure française d'esport présente sur les jeux League of Legends, Rocket League, Valorant, Teamfight Tactics, Fortnite, Street Fighter 6 et Tekken 8.
 
@@ -202,6 +196,7 @@ Structure et dirigeants
     Organigramme
     Organigramme de la Karmine Corp
     Fonction	Pays	Nom
+
     Cofondateur / Président-directeur général	Drapeau de la France	Kamel « Kameto » Kebir
     Cofondateur / Directeur	Drapeau de la France	Amine « Prime » Mekri
     Directeur	Drapeau de la France	Arthur Perticoz
@@ -210,7 +205,8 @@ Structure et dirigeants
     Directeur artistique	Drapeau de la France	Dhav « Dhav » Oza
     Lead Content Producer	Drapeau de la France	Erwin Hamayada
     Gestionnaire des médias sociaux		Amaury « Maul » Clerckx
-    Partenariats
+
+Partenariats
     En septembre 2021, la Karmine Corp signe un contrat de partenariat d'un an estimé à plusieurs centaines de milliers d'euros avec Direct Assurance.
 
     En janvier 2022, la Karmine Corp annonce un partenariat avec Orange pour une durée de deux ans estimé à plusieurs centaines de milliers d'euros, dévoilant son nouveau maillot.
@@ -219,7 +215,7 @@ Structure et dirigeants
 
     En janvier 2024, la Karmine Corp annonce l'arrivée d'un nouveau partenaire officiel pour une durée de 3 ans : le CIC.
 
-Divisions
+
 League of Legends
 
     Effectif de l'équipe League of Legends LEC : Karmine Corp
@@ -303,6 +299,7 @@ Rocket League
     Noly	 Joseph Kidd	Joueur	19 avril 2022	24 septembre 2022
     AztraL	 Maëllo Ernst	Joueur	26 juillet 2021	21 septembre 2022
     Stake	 Marc Bosch Plujà	Joueur	26 juillet 2021	17 avril 2022
+
 Valorant
     Effectif de l'équipe Valorant VCT
     Nationalité	Pseudo	Nom	Rôle	Date d'entrée
@@ -369,6 +366,7 @@ Street Fighter 6
     Effectif de l'équipe Street Fighter 6
     Nationalité	Pseudo	Nom	Rôle	Date d'entrée
     Drapeau de la France	Kilzyou	Kilyan Faucheux	Joueur	29 mai 2024
+
 
 Résultats sportifs
 Palmarès
